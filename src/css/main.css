@@ -1,0 +1,16 @@
+@charset 'UTF-8';
+
+/* 1. Config and Variables  */
+@import 'utils/variables.css';
+
+/* 2. Base */
+@import 'base/base.css';
+
+/* 3. Layouts */
+@import 'layouts/layout.css';
+
+/* 4. Components */
+@import 'components/component.css';
+
+/* 5. pages */
+@import 'pages/homepage.css';
